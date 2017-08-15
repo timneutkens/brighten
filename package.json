@@ -1,0 +1,10 @@
+{
+  "name": "brighten",
+  "version": "0.0.1",
+  "description": "Clear terminal screen but keep output history",
+  "main": "index.js",
+  "repository": "timneutkens/brighten",
+  "author": "Tim Neutkens",
+  "license": "MIT",
+  "files": ["index.js"]
+}
