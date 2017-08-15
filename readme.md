@@ -16,7 +16,7 @@ npm install --save brighten
 
 ## Usage
 
-```
+```js
 const brighten = require('brighten')
 
 // clear screen when process is a TTY
